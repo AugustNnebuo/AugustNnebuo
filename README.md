@@ -1,5 +1,5 @@
 - 👋 Hii I’m @AugustaNnebuo
-- 👀 I’m interested in Data sciennce and Machine learning.
+- 👀 I’m interested in Data science and Machine learning.
 - 🌱 I’m currently learning data science from the women techsters fellowship organized by tech4dev.
 - 💞️ I’m looking to collaborate on data science and machine learning projects from 2023.
 - 📫 You can reach me through my mail augustannebuo2019@gmail.com  or 09064683400
